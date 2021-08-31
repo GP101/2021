@@ -1,10 +1,8 @@
 #include "MyUtil.h"
+#include "Scene.h"
 #include <cwchar>
 
-double F(double x)
-{
-    return x * x + 2;
-}
+Scene g_scene;
 
 int main(void)
 {
@@ -27,18 +25,7 @@ int main(void)
         currClock = clock();
         const double elapsedTime = ((double)currClock - (double)prevClock) / CLOCKS_PER_SEC;
         ClearBuffer();
-        double x = -10;
-        double y;
-        double oldx = x;
-        double oldy = F(x);
-        while (x <= 10)
-        {
-            y = F(x);
-            PutCh(int(x + 100), int(-y + 60), '*');
-            x += 1;
-            oldx = x;
-            oldy = y;
-        }
+        g_scene.Update(elapsedTime);
         Sleep(10);
         DrawBuffer();
     }

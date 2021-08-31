@@ -13,35 +13,35 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="ReferenceFiles">
-      <UniqueIdentifier>{6f3abe6b-4829-4ade-be83-0708865ff3a8}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Main3.cpp">
+    <ClCompile Include="ConsoleApplication5_Matrix2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="KVector2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="MyUtil.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Main3_DrawFunction1.cpp">
-      <Filter>ReferenceFiles</Filter>
-    </ClCompile>
-    <ClCompile Include="Main3_DrawFunction2.cpp">
-      <Filter>ReferenceFiles</Filter>
-    </ClCompile>
-    <ClCompile Include="Main3_Scene.cpp">
-      <Filter>ReferenceFiles</Filter>
-    </ClCompile>
     <ClCompile Include="Scene.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="KMatrix2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="KVector2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
     <ClInclude Include="MyUtil.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Scene.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="KMatrix2.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
