@@ -1,0 +1,5 @@
+syntax: glob
+.vs/*
+ConsoleApplication/Debug/*
+ConsoleApplication/x64/*
+Debug/*

@@ -1,0 +1,451 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="listings\listing_1.1.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_2.1.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_2.2.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_2.3.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_2.4.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_2.5.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_2.6.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_2.7.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_2.8.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_3.1.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_3.2.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_3.3.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_3.4.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_3.5.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_3.6.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_3.7.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_3.8.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_3.9.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_3.10.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_3.11.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_3.12.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_3.13.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_4.1.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_4.2.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_4.3.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_4.4.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_4.5.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_4.6.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_4.7.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_4.8.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_4.9.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_4.10.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_4.11.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_4.12.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_4.13.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_4.14.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_4.15.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_4.16.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_4.17.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_4.18.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_4.19.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_4.20.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_4.21.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_4.22.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_4.23.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_4.24.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_4.25.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_4.26.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_4.27.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_5.1.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_5.2.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_5.3.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_5.4.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_5.5.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_5.6.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_5.7.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_5.8.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_5.9.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_5.10.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_5.11.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_5.12.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_5.13.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_6.1.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_6.2.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_6.3.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_6.4.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_6.5.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_6.6.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_6.7.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_6.8.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_6.9.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_6.10.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_6.11.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_6.12.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_6.13.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_7.1.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_7.2.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_7.3.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_7.4.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_7.5.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_7.6.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_7.7.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_7.8.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_7.9.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_7.10.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_7.11.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_7.12.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_7.13.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_7.14.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_7.15.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_7.16.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_7.17.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_7.18.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_7.19.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_7.20.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_7.21.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_7.22.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_8.1.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_8.2.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_8.3.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_8.4.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_8.5.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_8.6.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_8.7.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_8.8.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_8.9.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_8.10.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_8.11.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_8.12.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_8.13.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_9.1.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_9.2.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_9.3.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_9.4.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_9.5.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_9.6.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_9.7.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_9.8.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_9.9.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_9.10.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_9.11.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_9.12.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_9.13.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_10.1.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_10.2.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_10.3.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_11.1.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_a.1.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_a.2.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_a.3.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_a.4.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_c.1.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_c.2.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_c.3.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_c.4.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_c.5.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_c.6.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_c.7.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_c.8.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_c.9.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="listings\listing_c.10.cpp">
+      <Filter>listings</Filter>
+    </ClCompile>
+    <ClCompile Include="Main_deleteExample.cpp">
+      <Filter>ReferenceFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Main_detachExample.cpp">
+      <Filter>ReferenceFiles</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source">
+      <UniqueIdentifier>{913a831c-ba17-4835-9e0d-e92734cda0bb}</UniqueIdentifier>
+      <Extensions>cpp;c;c++</Extensions>
+    </Filter>
+    <Filter Include="Header">
+      <UniqueIdentifier>{fb5e7c42-eb14-4ef8-8c5a-dd940230a888}</UniqueIdentifier>
+      <Extensions>h;hpp;inc;inl</Extensions>
+    </Filter>
+    <Filter Include="listings">
+      <UniqueIdentifier>{ca18985b-f0d3-43bb-bb2c-69725dbde058}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ReferenceFiles">
+      <UniqueIdentifier>{057e5eb8-137a-4c40-9533-3b291fb84c76}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
