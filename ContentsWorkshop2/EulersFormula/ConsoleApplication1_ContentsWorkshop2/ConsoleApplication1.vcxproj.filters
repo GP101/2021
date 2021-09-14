@@ -24,5 +24,17 @@
     <ClCompile Include="ConsoleApplication1_Week01 function main.cpp">
       <Filter>ReferenceFiles</Filter>
     </ClCompile>
+    <ClCompile Include="ConsoleApplication1_Week02 complex number.cpp">
+      <Filter>ReferenceFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="ConsoleApplication1_Week02 program structure.cpp">
+      <Filter>ReferenceFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="ConsoleApplication1_Week02 sqrt domain error.cpp">
+      <Filter>ReferenceFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="ConsoleApplication1_Week02 complex number_done.cpp">
+      <Filter>ReferenceFiles</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
