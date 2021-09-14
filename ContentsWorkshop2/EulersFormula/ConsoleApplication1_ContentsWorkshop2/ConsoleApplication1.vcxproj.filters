@@ -36,5 +36,14 @@
     <ClCompile Include="ConsoleApplication1_Week02 complex number_done.cpp">
       <Filter>ReferenceFiles</Filter>
     </ClCompile>
+    <ClCompile Include="ConsoleApplication1_week02 differentiation.cpp">
+      <Filter>ReferenceFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="ConsoleApplication1_week02 pointer02.cpp">
+      <Filter>ReferenceFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="ConsoleApplication1_week02 pointer01.cpp">
+      <Filter>ReferenceFiles</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
