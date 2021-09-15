@@ -10,7 +10,7 @@ struct Complex
 Complex Add(Complex c0, Complex c1)
 {
 	Complex t{ 0.0, 0.0 };
-	t.real = c0.real cvbcvbvcb + c1.real;
+	t.real = c0.real + c1.real;
 	t.img = c0.img + c1.img;
 	return t;
 }
