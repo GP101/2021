@@ -45,5 +45,17 @@
     <ClCompile Include="ConsoleApplication1_week02 pointer01.cpp">
       <Filter>ReferenceFiles</Filter>
     </ClCompile>
+    <ClCompile Include="ConsoleApplication1_TowerOfHanoi_Iterative01.cpp">
+      <Filter>ReferenceFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="ConsoleApplication1_TowerOfHanoi_Iterative02.cpp">
+      <Filter>ReferenceFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="CppOcw_containerAndIterator.cpp">
+      <Filter>ReferenceFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="CppOcw_containerAndIterator2.cpp">
+      <Filter>ReferenceFiles</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
