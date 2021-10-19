@@ -57,5 +57,14 @@
     <ClCompile Include="CppOcw_containerAndIterator2.cpp">
       <Filter>ReferenceFiles</Filter>
     </ClCompile>
+    <ClCompile Include="CppOcw_operatoroverloading01.cpp">
+      <Filter>ReferenceFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="CppOcw_operatoroverloading02 ostream.cpp">
+      <Filter>ReferenceFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="CppOcw_operatoroverloading03 operator new.cpp">
+      <Filter>ReferenceFiles</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
