@@ -66,5 +66,17 @@
     <ClCompile Include="CppOcw_operatoroverloading03 operator new.cpp">
       <Filter>ReferenceFiles</Filter>
     </ClCompile>
+    <ClCompile Include="Calculator01_StateAndVariables.cpp">
+      <Filter>ReferenceFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Calculator02_StateTransition.cpp">
+      <Filter>ReferenceFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Calculator03_State0-implementation.cpp">
+      <Filter>ReferenceFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Calculator04_FinalResult.cpp">
+      <Filter>ReferenceFiles</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
