@@ -78,5 +78,14 @@
     <ClCompile Include="Calculator04_FinalResult.cpp">
       <Filter>ReferenceFiles</Filter>
     </ClCompile>
+    <ClCompile Include="ConsoleApplication stack01 isBalancedParenthesis.cpp">
+      <Filter>ReferenceFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="ConsoleApplication stack02 PostfixEvaluator.cpp">
+      <Filter>ReferenceFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="ConsoleApplication stack03 infixToPostfix.cpp">
+      <Filter>ReferenceFiles</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
