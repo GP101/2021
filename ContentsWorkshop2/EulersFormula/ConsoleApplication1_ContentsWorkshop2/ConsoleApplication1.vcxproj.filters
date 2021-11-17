@@ -87,5 +87,11 @@
     <ClCompile Include="ConsoleApplication stack03 infixToPostfix.cpp">
       <Filter>ReferenceFiles</Filter>
     </ClCompile>
+    <ClCompile Include="Algorithm_make_heap.cpp">
+      <Filter>ReferenceFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Algorithm_std_priority_queue.cpp">
+      <Filter>ReferenceFiles</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
