@@ -93,5 +93,14 @@
     <ClCompile Include="Algorithm_std_priority_queue.cpp">
       <Filter>ReferenceFiles</Filter>
     </ClCompile>
+    <ClCompile Include="Algorithm_AStarHashExample.cpp">
+      <Filter>ReferenceFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Algorithm_AStarPriorityQueueExample.cpp">
+      <Filter>ReferenceFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="ConsoleApplicationVs2017_equality equivalence.cpp">
+      <Filter>ReferenceFiles</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
