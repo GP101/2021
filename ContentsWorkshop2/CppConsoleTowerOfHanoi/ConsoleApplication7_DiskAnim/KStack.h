@@ -5,6 +5,8 @@
 
 class KStack
 {
+public:
+	typedef std::vector<int>::iterator iterator;
 private:
 	std::vector<int>	m_vector;
 public:
@@ -28,6 +30,8 @@ public:
 	int back() const { return m_vector.back(); }
 	void clear() { m_vector.clear(); m_vector.reserve(20); }
 	size_t size() const { return m_vector.size(); }
-
 	int at(int i) { return m_vector.at(i); }
+
+	iterator begin() { return m_vector.begin(); }
+	iterator end() { return m_vector.end(); }
 };
