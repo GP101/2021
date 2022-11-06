@@ -44,7 +44,7 @@ void PutCh(int x, int y, char ch)
 
 void PutText(int x, int y, const char* text)
 {
-    const int len = strlen(text);
+    const int len = (int)strlen(text);
     if (x + len >= g_width) return;
     const char oldCh = g_buffer[y][x + len];
     sprintf_s(&g_buffer[y][x], __min(len+1,g_width - x), text);

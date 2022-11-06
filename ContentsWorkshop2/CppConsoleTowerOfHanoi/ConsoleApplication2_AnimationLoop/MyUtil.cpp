@@ -1,7 +1,7 @@
 #include "MyUtil.h"
 
-const int g_width = 200;
-const int g_height = 120;
+const int g_width = 100;
+const int g_height = 60;
 HWND g_hwndConsole = 0;
 HANDLE g_hConsole = 0;
 char g_buffer[g_height][g_width + 1];
@@ -24,7 +24,7 @@ void ScreenSize(int x, int y)
     cfi.cbSize = sizeof(cfi);
     cfi.nFont = 0;
     cfi.dwFontSize.X = 8; // Width of each character in the font
-    cfi.dwFontSize.Y = 8; // Height
+    cfi.dwFontSize.Y = 16; // Height
     cfi.FontFamily = FF_DONTCARE;
     cfi.FontWeight = FW_NORMAL;
     wcscpy_s(cfi.FaceName, L"Consolas"); // Choose your font

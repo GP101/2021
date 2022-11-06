@@ -27,7 +27,7 @@ public:
 	}
 	int back() const { return m_vector.back(); }
 	void clear() { m_vector.clear(); m_vector.reserve(20); }
-	int size() const { return m_vector.size(); }
+	size_t size() const { return m_vector.size(); }
 
 	int at(int i) { return m_vector.at(i); }
 };

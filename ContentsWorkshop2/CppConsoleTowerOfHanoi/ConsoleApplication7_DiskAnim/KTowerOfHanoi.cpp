@@ -216,11 +216,11 @@ void KTowerOfHanoi::Draw()
 	if (m_eDiskAnimState == EDiskAnimState::DISKANIM_MOVE_TO_TOP)
 	{
 		KVector2 pos = KVector2::Lerp(m_vAnimBegin, m_vAnimEnd, m_diskAnimTimer);
-		PrintDisc(pos.x, pos.y, m_iAnimDisk);
+		PrintDisc((int)pos.x, (int)pos.y, m_iAnimDisk);
 	}
 	else if (m_eDiskAnimState == EDiskAnimState::DISKANIM_MOVE_TO_DEST)
 	{
 		KVector2 pos = KVector2::Lerp(m_vAnimBegin, m_vAnimEnd, m_diskAnimTimer);
-		PrintDisc(pos.x, pos.y, m_iAnimDisk);
+		PrintDisc((int)pos.x, (int)pos.y, m_iAnimDisk);
 	}
 }

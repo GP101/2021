@@ -1,7 +1,7 @@
 #include "MyUtil.h"
 
-const int g_width = 200; // 200
-const int g_height = 60; // 120
+const int g_width = 100;
+const int g_height = 60;
 HWND g_hwndConsole = 0;
 HANDLE g_hConsole = 0;
 char g_buffer[g_height][g_width + 1];
@@ -44,7 +44,7 @@ void PutCh(int x, int y, char ch)
 
 void PutText(int x, int y, const char* text)
 {
-    const int len = strlen(text);
+    const int len = (int)strlen(text);
     if (x + len >= g_width) return;
     const char oldCh = g_buffer[y][x + len];
     sprintf_s(&g_buffer[y][x], __min(len+1,g_width - x), text);

@@ -3,27 +3,35 @@
 #include <stack>
 #include <vector>
 
-class KStack : public std::vector<int>
+class KStack
 {
-private:
-	using std::vector<int>::push_back;
-	using std::vector<int>::pop_back;
 public:
-	KStack() { reserve(20); }
+	typedef std::vector<int>::iterator iterator;
+private:
+	std::vector<int>	m_vector;
+public:
+	KStack() { m_vector.reserve(20); }
 	void push(int d)
 	{
-		__super::push_back(d);
+		m_vector.push_back(d);
 	}
 	void pop()
 	{
-		__super::pop_back();
+		m_vector.pop_back();
 	}
 	bool empty() const
 	{
-		return __super::size() == 0;
+		return m_vector.size() == 0;
 	}
 	int top()
 	{
-		return __super::back();
+		return m_vector.back();
 	}
+	int back() const { return m_vector.back(); }
+	void clear() { m_vector.clear(); m_vector.reserve(20); }
+	size_t size() const { return m_vector.size(); }
+	int at(int i) { return m_vector.at(i); }
+
+	iterator begin() { return m_vector.begin(); }
+	iterator end() { return m_vector.end(); }
 };
